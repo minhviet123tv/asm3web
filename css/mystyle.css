@@ -1,0 +1,105 @@
+
+.khung{
+    font-family: 'Roboto', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+  }
+.menu {
+    border:0px solid rgba(0, 151, 8, 0.363);
+    border-radius: 5px;
+    text-transform: uppercase;   
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+    
+    }
+.menu li{
+    border:0px solid rgba(0, 151, 8, 0.363);
+    border-radius: 5px;
+    background-color:beige;
+    box-shadow: 3px 3px 3px gray;
+    margin: 2px;
+    
+}
+.khung{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.banner{ 
+    position:relative;
+    width: 100%;      
+    max-height:500px;  
+    min-height: 300px;
+    background-repeat:no-repeat;
+    background-position:center;
+    margin:auto;
+}
+.textbanner{
+    position:absolute;
+    margin-top: 6%;
+    margin-left:10%;
+}
+.textbanner1{
+    color:rgb(13, 151, 0);
+}
+.textbanner2{
+    color:rgb(0, 0, 0);
+}
+.tieude1{
+    border:1px solid beige;
+    width: 100%;
+    background-color: beige;
+    border-radius: 5px;
+    padding-top: 10px;
+    box-shadow:3px 3px 3px gray; 
+    
+      
+}
+.tieude1 h3{
+   text-align: center;
+   padding: 3px;
+   
+}
+
+.khungdlb{
+    text-align: justify;
+    width: 100%;
+    display: inline-block;
+}
+.clipyoutube > iframe{
+    width: 100%;
+    max-width: 560px;
+    display: block;
+    margin:auto;
+}
+
+.anhdlb > img{
+    display: block;
+    width: 100%;
+    max-width: 800px;
+    min-width: 300px;
+    margin: auto;
+}
+.card-body{
+    text-align: justify;
+}
+.textduoianh{
+    text-align: center;
+    
+}
+.textlink{
+    text-decoration: none;
+    text-transform:uppercase;
+}
+.textlink2{
+    text-decoration: none;
+   }
+
+.hrnone{
+    height: 0px;
+    width: 0px;
+}
+.anchorlink{
+    text-decoration: none;
+}

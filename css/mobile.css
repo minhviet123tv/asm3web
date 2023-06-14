@@ -1,0 +1,11 @@
+@media only screen and (max-width: 768px) {
+    /*for Mobile*/
+       [class*="col-"] {
+       width: 100%;}
+}
+
+.khung {
+    margin-left: 8%;
+    margin-right: 8%;}
+.textbanner1{
+        color:rgb(0, 0, 0);}
