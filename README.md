@@ -1,0 +1,6 @@
+- Tên dự án: Giới thiệu du lịch Thanh Hoá
+- Mục tiêu dự án: Giới thiệu được các địa điểm du lịch nổi bật của Thanh Hoá, điểm nổi bật của các điểm du lịch này.
+- Quá trình triển khai: Thiết kế tính năng, giao diện, tạo nội dung cho trang
+- Các kỹ năng/ frame work đã dùng: HTML, CSS, Bootstrap
+- Kết quả dự án: Tạo được trang web giới thiệu du lịch Thanh Hoá với giao diện và tính năng đáp ứng mục đích
+- Link demo: https://minhviet123tv.github.io/asm3web/
